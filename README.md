@@ -1,1 +1,1 @@
-# shopping-cart
+# https://owadud.github.io/shopping-cart/
